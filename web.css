@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://image.freepik.com/free-vector/yellow-light-arrow-black-with-hexagon-mesh-background_33869-677.jpg);
+}
+h1{
+    color: crimson;
+    margin-left: 650px;
+    font-size: 50px;
+}
+
+h2{
+    margin-left: 0px;
+}
+
+div.a{
+    margin-left: 1100px;
+    
+}
+
+div.b{
+    
+   margin-left:100px;
+}
+
+div.c{
+    margin-left:100px;
+
+}
+
+div.d{
+    margin-left:1100px;
+}
+
+div.high{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+div.pic2{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+div.left{
+    margin-left:100px;
+}
+div.left1{
+    margin-left:100px;
+        
+}
+div.left2{
+    margin-left:510px;
+}
+
+
